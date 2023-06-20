@@ -1,0 +1,21 @@
+.app-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.app-image {
+  width: 80px;
+  height: 80px;
+  margin-bottom: 30px;
+}
+
+.app-name {
+  font-family: Bree Serif;
+  color: #1e293b;
+}

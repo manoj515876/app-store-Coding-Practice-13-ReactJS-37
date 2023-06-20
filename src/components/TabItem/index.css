@@ -1,0 +1,14 @@
+.tab-items {
+  color: #7b8794;
+  font-family: Roboto;
+  font-weight: 600;
+  margin-right: 48px;
+  border-width: 0px;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.active-tab-btn {
+  border-bottom: 2px solid #0b69ff;
+  color: #3e4c59;
+}
